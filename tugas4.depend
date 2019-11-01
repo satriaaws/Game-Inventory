@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571040432 source:g:\game programming\tugas\tugas4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1571029000 source:e:\game programming\tugas\tugas4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
